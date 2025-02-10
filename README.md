@@ -51,7 +51,7 @@ After compiling the QUIP libraries, please provide the whole path of the `quip` 
 - The process is repeated for all configurations, resulting in an average SOAP similarity matrix of size 𝑁×𝑁, where 𝑁 is the number of configurations.
 - The same approach is applied using the Coulomb matrix to account for long-range interactions, providing a global similarity measure.
   
-  ![pipeline](Hyb_similarity.png)
+  ![pipeline](HYB_similarity.png)
   
 - A hybrid kernel approach is introduced, combining the SOAP and Coulomb kernels. This approach leverages both local and long-range descriptions, with a user defined hyperparameter $\delta$, determining the relative weight of each kernel. 
   
