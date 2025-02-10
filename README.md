@@ -7,11 +7,20 @@ Clone the  **MK-CAMLIP**  repository:
 
 	git clone --recursive https://github.com/ASM2C-group/MK-CAMLIP.git
 
-**MK-CAMLIP** workflow developed as a part of the article "Multi-kernel similarity-based clustering of amorphous systems and machine-learned interatomic potentials by active learning", and was applied to several glassy systems including, AsTe3, TeO2, and TeO2+gamma crystal (For more information, refer to Ref.[article])
+**MK-CAMLIP** workflow developed as a part of the article "Multi-kernel similarity-based clustering of amorphous systems and machine-learned interatomic potentials by active learning", and was applied to several glassy systems including, AsTe3, TeO2, and TeO2+gamma crystal (For more information, refer to Ref.https://doi.org/10.1111/jace.20128)
  
 Please cite the following paper, when **MK-CAMLIP** routines are used:
 ```
-"..........................................................................."
+"@article{shuaib2025multikernel,
+  title={Multikernel similarity-based clustering of amorphous systems and machine-learned interatomic potentials by active learning},
+  author={Shuaib, Firas and Ori, Guido and Thomas, Philippe and Masson, Olivier and Bouzid, Assil},
+  journal={Journal of the American Ceramic Society},
+  volume={108},
+  number={1},
+  pages={e20128},
+  year={2025},
+  publisher={Wiley Online Library}
+}"
 
 ```
 
